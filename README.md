@@ -41,7 +41,7 @@ if __name__ == '__main__':
 <p align="left">
   <a href="https://abhigyantrips.dev/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rfnshare&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rfnshare&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rfnshare&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
