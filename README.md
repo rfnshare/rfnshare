@@ -1,15 +1,3 @@
-### Hi there 👋
-
-Heya! I'm Abdullah Al Faroque,
-
-<br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
-
 ```python
 class AbdullahFaroque():
     
