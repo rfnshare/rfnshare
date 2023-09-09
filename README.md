@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
-
 Heya! I'm Abdullah Al Faroque,
 
 <br>
