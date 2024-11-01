@@ -45,7 +45,7 @@ if __name__ == '__main__':
 		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12147949/abdullah-al-faroque?tab=profile">
 				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://rfnshare.github.io">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+					<img src="https://icons8.com/icon/XpROQKgKbKQr/books"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/aalfaroque">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/rfnshare">
@@ -53,6 +53,6 @@ if __name__ == '__main__':
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCLRLumd3Lzei2v4VEd05yLw?view_as=subscriber">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/rfnshare/Me.io/blob/master/test">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img src="https://icons8.com/icon/zEj141qHoHc8/resume" ></a>
       </div>
 </p>
