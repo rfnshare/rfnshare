@@ -31,28 +31,6 @@ if __name__ == '__main__':
 </div>
 -->
 
-## My Statistics
-
-<!--- stats (start) -->
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=rfnshare&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rfnshare&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rfnshare&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=5"/>
-  
-  </td>
-</tr>
-</table>
-</p>        
-<!--- stats (end) -->
 
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
